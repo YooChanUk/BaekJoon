@@ -1,5 +1,11 @@
-﻿  backjune.c
-C:\Users\유찬욱\source\repos\backjune\backjune\backjune.c(12,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\유찬욱\source\repos\backjune\backjune\backjune.c(21,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\유찬욱\source\repos\backjune\backjune\backjune.c(26,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  backjune.vcxproj -> C:\Users\유찬욱\source\repos\backjune\Debug\backjune.exe
+﻿  4344.c
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\4344.c(12,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\4344.c(21,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\4344.c(26,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  8958.c
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\8958.c(22,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\8958.c(10,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\8958.c(20,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+8958.obj : error LNK2005: _main이(가) 4344.obj에 이미 정의되어 있습니다.
+C:\Users\유찬욱\source\repos\BaekJoon\Debug\backjune.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
