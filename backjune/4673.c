@@ -3,20 +3,38 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main()
-{
-	int n = 0;
-	scanf("%d",&n);
-	d(n);
-}
+int arr[10000];
 
 int d(int n)
 {
+	int hap = n;
 
-	while (n / 10 != 0)
+	while (n>0)
 	{
 		
+		if (n > 0)
+		{
+			hap += n % 10;
+			n = n / 10;
+		}
 	}
 
-	return n;
+	return hap;
 }
+
+int main()
+{
+	for (int i = 0; i < 10000; i++)
+	{
+		arr[d(i)] = 1;
+	}
+
+	for (int j = 0; j < 10000; j++)
+	{
+		if (arr[j] != 1)
+		{
+			printf("%d\n", j);
+		}
+	}
+}
+
