@@ -13,15 +13,15 @@ int main()
 	for (int i = 0; i < n; i++)
 	{
 		scanf("%d", &re);
-		scanf("%s",s);
+		scanf("%s", s);
 		for (int j = 0; j < strlen(s); j++)
 		{
 			for (int k = 0; k < re; k++)
 			{
 				printf("%c", s[j]);
 			}
-			
-			
+
+
 		}
 		printf("\n");
 	}
