@@ -1,3 +1,3 @@
-﻿  1157.c
-C:\Users\유찬욱\source\repos\BaekJoon\backjune\1157.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  3046.c
+C:\Users\유찬욱\source\repos\BaekJoon\backjune\3046.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   backjune.vcxproj -> C:\Users\유찬욱\source\repos\BaekJoon\Debug\backjune.exe
